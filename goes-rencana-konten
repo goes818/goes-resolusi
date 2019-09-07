@@ -2,11 +2,12 @@ RENCANA KONTEN
 -java script
   *es6
   *framework
+-php
+  *laravel
    ^vue
+
    ^lagi
 -Struktur data dasar
--php
-   ^laravel
 -interview
 -vlog
 -pyton
