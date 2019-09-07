@@ -3,6 +3,7 @@ RENCANA KONTEN
   *es6
   *framework
    ^vue
+   ^lagi
 -Struktur data dasar
 -php
    ^laravel
