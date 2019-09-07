@@ -2,7 +2,9 @@ RENCANA KONTEN
 -java script
   *es6
   *framework
--Struktur data dasar
+   ^angular
+   ^react
 -php
+  *laravel
 -interview
 -vlog
